@@ -1,10 +1,17 @@
-# functional-programming
+# Functional-Programming
+-- uitleg FP -- 
+
+## Debrief
+
 
 ## Onderzoeksvraag?
 
 1. Zijn er genoeg parkeerplaatsen met laadpalen voor de stijgende aankoop van elektrische auto's?
 
 2. Stimuleert de stad het aankopen van een elektrische auto genoeg met de beschikbaarheid van laadpalen?
+
+#### Hypothese
+Met het stijgende aantal aan elektrische auto's zou de Gemeente van Amsterdam meer laadpalen moeten plaatsen en zou het aanschaffen van een laadpaal makkelijker moeten zijn voor particulieren. 
 
 ### Deelvragen
 - Hoeveel openbare oplaadpunten zijn er?
